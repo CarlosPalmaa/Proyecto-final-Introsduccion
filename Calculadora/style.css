@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#result {
+    width: 200px;
+    height: 30px;
+    margin: 10px auto;
+    text-align: right;
+}
+
+.Math_1 {
+    margin: 10px auto;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+.class {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
